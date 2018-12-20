@@ -1,0 +1,13 @@
+com\szc\springboot\demo\acs\service\impl\UserInfoServiceImpl.class
+com\szc\springboot\demo\acs\controller\HelloController.class
+com\szc\springboot\demo\acs\entity\SysPermission.class
+com\szc\springboot\demo\acs\controller\HomeController.class
+com\szc\springboot\demo\acs\entity\UserInfo.class
+com\szc\springboot\demo\acs\service\UserInfoService.class
+com\szc\springboot\demo\acs\config\shiro\ShiroConfig.class
+com\szc\springboot\demo\acs\controller\UserInfoController.class
+com\szc\springboot\demo\acs\entity\SysRole.class
+com\szc\springboot\demo\acs\AcsApplication.class
+com\szc\springboot\demo\acs\config\util\RedisUtil.class
+com\szc\springboot\demo\acs\dao\UserInfoDao.class
+com\szc\springboot\demo\acs\config\shiro\MyRealm.class
